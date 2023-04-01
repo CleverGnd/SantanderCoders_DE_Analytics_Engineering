@@ -29,4 +29,17 @@ Os passos incluem:
     - Definir um validador e carregar o conjunto de dados Titanic.
     - Criar expectativas sobre os dados, incluindo verificar se as colunas estão na ordem correta, se os valores em determinadas colunas estão dentro de um conjunto de valores permitidos e se as colunas existem no conjunto de dados.
     - Executar as expectativas e verificar os resultados usando um checkpoint.
-   
+
+### Atividade 3:
+
+Nessa atividade, foram realizadas as seguintes tarefas no BigQuery usando o Google Cloud:
+
+    criado um projeto no BigQuery e estabelecida uma conexão com ele usando o VS Code e o DBT. 
+    Em seguida, foram desenvolvidas consultas SQL para criar uma tabela de pedidos por ano,
+    uma visão de totais de pedidos por estado e uma visão de clientes por região. 
+    Além disso, foram criados modelos de SQL para calcular o custo total dos itens e dos pedidos.
+
+## Agradecimentos
+
+Agradecemos à ADA Tech por proporcionar este curso e à Santander por apoiar a iniciativa.
+Ao professor [Alan Santos](https://github.com/alansantospi), por desenvolver essas atividades, possibilitando o aprendizado de novas ferramentas e técnicas.
